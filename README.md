@@ -1,2 +1,2 @@
-# GroupA_LabReview
-Review how to add stuff to Github. 
+# Lab Review - Group A
+Working through something new.  
